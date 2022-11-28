@@ -8,7 +8,7 @@ exl-id: 506991e8-701c-49b8-9d9d-265415779876
 
 ## Overview {#overview}
 
-Hybdrid personalization describes the process of retrieving personalization content server-side, using the [Edge Network Server API](../..//server-api/overview.md), and rendering it client-side, using the [Web SDK](../home.md).
+Hybrid personalization describes the process of retrieving personalization content server-side, using the [Edge Network Server API](../..//server-api/overview.md), and rendering it client-side, using the [Web SDK](../home.md).
 
 You can use hybrid personalization with personalization solutions like Adobe Target or Offer Decisioning, the difference being the contents of the [!UICONTROL Server API] payload.
 
